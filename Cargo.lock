@@ -341,7 +341,7 @@ checksum = "47be2f14c678be2fdcab04ab1171db51b2762ce6f0a8ee87c8dd4a04ed216135"
 
 [[package]]
 name = "isitup"
-version = "0.1.0"
+version = "2021.5.21"
 dependencies = [
  "dyn-fmt",
  "lazy_static",

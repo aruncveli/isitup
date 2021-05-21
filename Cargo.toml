@@ -1,8 +1,13 @@
 [package]
 name = "isitup"
-version = "0.1.0"
+version = "2021.5.21"
 authors = ["aruncveli <aruncveli@gmail.com>"]
 edition = "2018"
+license = "MIT"
+description = "CLI utility to check if a domain is up or down"
+repository = "https://github.com/aruncveli/isitup"
+keywords = ["cli", "web"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 reqwest = { version = "0.11", features = ["blocking", "json"] }
